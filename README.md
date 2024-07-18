@@ -1,6 +1,6 @@
 
 
-# 👋 Hi, I’m @anuragsharma
+# 👋 Hi, I’m @Anurag2782
 
 **👀 I’m interested in Data Engineering and Full Stack Web Development**
 
@@ -11,7 +11,7 @@
 - Full Stack Web Development Projects
 
 **📫 How to reach me:**
-- [pranshujassalwork01@gmail.com]
+- [anuragsharma2782@gmail.com]
 
 
 **😄 Pronouns:**
@@ -69,7 +69,7 @@ Feel free to explore my repositories and reach out if you have any questions or 
 
 ---
 
-[Pranshu Jassal]
+[Anurag Sharma]
 
 
 <!--
