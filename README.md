@@ -38,12 +38,6 @@
 - MySQL
 - MongoDB
 
-### Cloud Services:
-- AWS S3
-- AWS Glue
-- AWS Lambda
-- GCP BigQuery
-
 ### Web Development:
 - **Languages:** Java, JavaScript, SQL, Python (NumPy, Pandas, Matplotlib)
 - **Technologies/Frameworks:** React.js, Node.js, Next.js, MongoDB, Redux, Tailwind CSS, Express.js
