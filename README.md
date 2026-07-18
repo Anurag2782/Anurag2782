@@ -1,82 +1,100 @@
+# Hi, I'm Anurag Sharma 👋
 
+Backend Engineer passionate about building scalable, resilient, and distributed systems with Java and Spring Boot.
 
-# 👋 Hi, I’m @Anurag2782
-
-**👀 I’m interested in Data Engineering and Full Stack Web Development**
-
-**🌱 I’m currently learning Data Engineering**
-
-**💞️ I’m looking to collaborate on:**
-- Data Engineering Projects
-- Full Stack Web Development Projects
-
-**📫 How to reach me:**
-- [anuragsharma2782@gmail.com]
-
-
-**😄 Pronouns:**
-- He/Him
-
-**⚡ Fun fact:**
-- I love to explore new technologies and frameworks in both data and web development spaces.
+I enjoy understanding **how systems work under the hood**—from database internals and distributed caching to messaging systems, resilience patterns, and microservice architecture. Most of my work focuses on writing production-ready backend systems while continuously exploring system design and performance engineering.
 
 ---
 
-## 🛠️ Skills
+## 🚀 What I'm Working On
 
-### Programming:
-- **Languages:** SQL, Java, Python
-- **Python Libraries:** NumPy, Pandas, Matplotlib, Seaborn
-
-### Data Visualization Tools:
-- Microsoft Power BI
-- Amazon QuickSight
-- Google Looker
-- Advanced Excel
-
-### Databases:
-- MySQL
-- MongoDB
-
-### Web Development:
-- **Languages:** Java, JavaScript, SQL, Python (NumPy, Pandas, Matplotlib)
-- **Technologies/Frameworks:** React.js, Node.js, Next.js, MongoDB, Redux, Tailwind CSS, Express.js
-
-### Developer Tools:
-- VS Code
-- Jupyter
-- Google Colab
-- MySQL Workbench
-- Git
-
-### Computer Science Fundamentals:
-- Object-Oriented Programming (OOPS)
-- Data Structures & Algorithms
-- Operating Systems
-- Web Development
+* Building scalable backend applications using **Java** and **Spring Boot**
+* Designing distributed systems and microservices
+* Exploring database internals, caching, messaging, and reliability patterns
+* Writing technical articles on backend engineering and system design
 
 ---
 
-I am a web developer and data analyst with a passion for integrating data solutions with web technologies. I am eager to contribute to meaningful projects and collaborate with fellow developers and data enthusiasts. Let's build something amazing together!
+## 🛠️ Tech Stack
 
-Feel free to explore my repositories and reach out if you have any questions or collaboration ideas.
+### Languages
+
+* Java
+* SQL
+* JavaScript
+* Python
+
+### Backend
+
+* Spring Boot
+* Spring Security
+* Spring Data JPA
+* Hibernate
+* REST APIs
+* JWT Authentication
+
+### Databases
+
+* PostgreSQL
+* MySQL
+* MongoDB
+* Redis
+
+### Messaging & Distributed Systems
+
+* RabbitMQ
+* Apache Kafka
+* Redis
+* Debezium (CDC)
+
+### Frontend
+
+* React.js
+* Next.js
+* Tailwind CSS
+
+### DevOps & Tools
+
+* Git & GitHub
+* Docker
+* IntelliJ IDEA
+* VS Code
+* Postman
 
 ---
 
-[Anurag Sharma]
+## 📚 Areas of Interest
 
+* System Design
+* Distributed Systems
+* Microservices
+* Database Internals
+* High-Performance Backend Systems
+* Caching Strategies
+* Event-Driven Architecture
+* Resilience Patterns
 
-<!--
-**Anurag2782/Anurag2782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## ✍️ Technical Writing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I regularly write about backend engineering topics, including:
+
+* Idempotency Keys
+* Circuit Breaker Pattern
+* Saga & Outbox Pattern
+* PostgreSQL WAL Internals
+* Redis Consistent Hashing
+* Cache Stampede Prevention
+* Microservices & Distributed Systems
+
+---
+
+## 📫 Connect
+
+* Email: **[anuragsharma2782@gmail.com](mailto:anuragsharma2782@gmail.com)**
+* LinkedIn: *(Add your LinkedIn profile URL here)*
+
+---
+
+> *"Build systems that continue to work when everything else starts failing."*
